@@ -8,5 +8,5 @@ sudo npm install -g create-react-app@3.4.1
 # create a sample application server
 npm init react-app sample --use-npm
 
-#
-docker build -f Dockerfile.prod -t webserver:latest .
+# build and deploy the application server
+docker-compose -f docker-compose.prod.yml up -d --build

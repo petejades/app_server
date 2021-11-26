@@ -1,3 +1,4 @@
+SSR Project
 # 1. Update your ubuntu machine
 sudo apt install update -y
 

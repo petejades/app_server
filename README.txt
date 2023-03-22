@@ -15,6 +15,7 @@ npm init react-app webserver --use-npm
 npm install react-scripts@3.4.1 -g --silent
 
 # 5.1 cd into the webserver folder
+      mkdir src
 
 
 # 6. modify the homepage of your react app and change "Add any content for your website" to the content you want on your website

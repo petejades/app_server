@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          what is going on
+          Jenkins is a cool automation tool!!!!
         </p>
         <a
           className="App-link"
